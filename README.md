@@ -1,2 +1,2 @@
-# machine-learning
-机器学习算法
+# weather_forecasting
+This is a LSTM algorithm for weather forecasting
